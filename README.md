@@ -1,4 +1,8 @@
-#demo 2
-test
-adding new test to show commiting new change
-git status
+#demo
+some description
+## subheader
+watch tutorial on youtube
+
+##local development
+1.open index.html in your browser
+
